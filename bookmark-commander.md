@@ -1,6 +1,6 @@
 # Privacy Policy for Bookmark Commander
 
-No data or personal is collected by this Chrome extension.
+No data or personal information is collected by this Chrome extension.
 
 ##### Contact
 
